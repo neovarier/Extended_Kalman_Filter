@@ -16,6 +16,7 @@ Laser measurements alone give better predication as compared to Radar measuremen
 Using both of them increases the accuracy of the prediction.
 
 NOTE:The source files are uploaded along with binary and data.
-Eigen source files folder is compresses. 
-For compilation the Eigen.rar would have to be uncompressed
+Source files for Kalman filter are at /EKF_Submit/src.
+Eigen source files folder is compressed.
+For compilation the Eigen.rar would have to be uncompressed.
 
