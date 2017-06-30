@@ -1,6 +1,10 @@
 # Extended_Kalman_Filter
 SDC Term 2 Project 1
 
+Code from the lessons were helpful.
+
+
+Observations:
 RMSE obtained for Dataset 1.
 (0.0973,0.0855, 0.4513, 0.4399).
 RMSE obtained for Dataset 2.
