@@ -14,3 +14,8 @@ With turning off Laser. Radar Only RMSE.
 
 Laser measurements alone give better predication as compared to Radar measurements alone.
 Using both of them increases the accuracy of the prediction.
+
+NOTE:The source files are uploaded along with binary and data.
+Eigen source files folder is compresses. 
+For compilation the Eigen.rar would have to be uncompressed
+
